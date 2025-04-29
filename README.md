@@ -1,6 +1,3 @@
-# MemoryVault
-MemoryVault is a sleek and powerful web application designed to store and showcase your precious memories — whether it's images, videos, or other media. The main purpose behind this project is to give users a dynamic and personalized space where they can revisit the most beautiful moments of their lives anytime.
-
 # 📸 MemoryVault
 
 **MemoryVault** is a sleek and powerful full-stack web application built to store and showcase your precious memories — including images, videos, and more. It gives you a personalized space to revisit the most beautiful moments of your life, anytime you want.
@@ -40,30 +37,29 @@ MemoryVault is a sleek and powerful web application designed to store and showca
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/memoryvault.git
+
 2. Install dependencies
 Frontend:
-
 bash
 Copy
 Edit
 cd client
 npm install
 Backend:
-
 bash
 Copy
 Edit
 cd server
 npm install
-3. Start the application
-Frontend:
 
+3.Start the application
+Frontend:
 bash
 Copy
 Edit
 npm start
-Backend:
 
+Backend:
 bash
 Copy
 Edit
